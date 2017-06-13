@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.arka-demo-addon" name="Arka Multiplayer" version="1.0.0" provider-name="Arka_Python_Developer">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+	  <import addon="script.module.urlresolver" version="1.0.0"/>
+	  <import addon="plugin.video.youtube" version="2.9.2" optional="true"/>
+    <import addon="script.module.simplejson" version="3.3.0"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="index.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_US">Arka Multiplayer</summary>
+
+		<summary lang="hi"></summary>
+
+		<description lang="en">This is a Arka Multiplayer testing addon developed for testing purpose with some specific channels name.</description>
+		<description lang="hi">यह कुछ विशिष्ट चैनल नाम के साथ परीक्षण उद्देश्य के लिए विकसित अर्कका मल्टीप्लेयर टेस्टिंग एडन है।</description>
+
+		<language></language>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE Version 2</license>
+		<forum>http://forum.kodi.tv/showthread.php?tid=158540</forum>
+		<website></website>
+		<email></email>
+		<source></source>
+		<assets>
+			<icon>resources/data/icon.png</icon>
+			<fanart>resources/data/fanart.jpg</fanart>
+			<screenshot>resources/screenshots/screenshot-01.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-02.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot-03.jpg</screenshot>
+		</assets>
+	</extension>
+
+</addon>

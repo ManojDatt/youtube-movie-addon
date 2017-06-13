@@ -1,0 +1,162 @@
+{
+    "Indian / Pakistani TV Show": [{
+            "title" : "Colors Tv",
+            "channel" : "user/colorstv",
+            "icon" : "sources/data/colors.jpg",
+            "genre" : "Tv show"
+        },
+        {
+            "title" : "Sub Tv",
+            "channel" : "user/sabtv",
+            "icon" : "resources/data/subtv.png",
+            "genre" : "Tv show"
+        },
+        {
+            "title" : "Hum Tv",
+            "channel" : "user/HumNetwork",
+            "icon" : "resources/data/humtv.png",
+            "genre" : "Tv Drama"
+        },
+        {
+            "title" : "Best Pakistan Drama",
+            "channel" : "channel/UCyFbHB68DazkUxdq2WvPDfQ",
+            "icon" : "resources/data/pakistani.jpg",
+            "genre" : "Tv Drama"
+        },
+        {
+            "title" : "Zee Tv",
+            "channel": "user/zeetv",
+            "icon" : "resources/data/zeetv.png",
+            "genre" : "Tv show"
+        }
+    ],
+    "Indian News Channels": [{
+            "title" : "Zee News",
+            "channel" : "user/zeenews",
+            "icon" : "resources/data/zeenews.jpg",
+            "genre" : "Indian News"
+        },
+        {
+            "title" : "ABP News",
+            "channel" : "user/abpnewstv",
+            "icon" : "resources/data/abpnews.png",
+            "genre" : "Indian News"
+        },
+        {
+          "title" : "News 24",
+          "channel" : "user/News24page",
+          "icon" : "resources/data/news24.png",
+          "genre" : "Indian News"
+        },
+        {
+            "title" : "NDTV",
+            "channel" : "user/ndtv",
+            "icon" : "resources/data/NDTV.png",
+            "genre" : "Indian News"
+        }
+    ],
+    "Pakistani News Channel": [{
+            "title" : "Khyber News",
+            "channel" : "channel/UCCEMt2W7Y8qXkLSTkr082mw",
+            "icon" : "resources/data/KhyberNews.jpg",
+            "genre" : "Pakistani News"
+        },
+        {
+          "title" : "Saama Tv",
+          "channel" : "user/samaatvnews",
+          "icon" : "resources/data/Saama.jpg",
+          "genre" : "Pakistani News"
+        },
+        {
+          "title" : "Dawn News",
+          "channel" : "user/dawnnewspakistan",
+          "icon" : "resources/data/Dawn.png",
+          "genre" : "Pakistani News"
+        }
+    ],
+
+    "English Tv": [{
+            "title" : "Quest TV",
+            "channel" : "user/ukquesttv",
+            "icon" : "resources/data/ukquesttv.jpg",
+            "genre" : "English Tv"
+        },
+
+        {
+          "title" : "WOW ENGLISH TV",
+          "channel" : "channel/UCx1xhxQyzR4TT6PmXO0khbQ",
+          "icon" : "resources/data/WOWENGLISHTV.jpg",
+          "genre" : "English Tv"
+        }
+    ],
+
+    "Series": [{
+          "title" : "StartZ",
+          "channel" : "user/Starz",
+          "icon" : "resources/data/StartZ.png",
+          "genre" : "Series"
+        }, {
+          "title" : "The Divergent Series",
+          "channel" : "channel/UCmWg2aswsWFGmvkYymVnl8A",
+          "icon" : "resources/data/Divergent.png",
+          "genre" : "Series"
+        },
+        {
+          "title" : "Red Bull",
+          "channel" : "user/redbull",
+          "icon" : "resources/data/RedBull.jpg",
+          "genre" : "Series"
+        },
+        {
+          "title" : "TRIANGLE THE WEB SERIES",
+          "channel" : "channel/UCBSAahXbAGQGlgMYSSB7_Dg",
+          "icon" : "resources/data/TRIANGLETHEWEBSERIES.jpg",
+          "genre" : "Series"
+        }
+    ],
+    "Episodes": [{
+          "title" : "Game Of Throne",
+          "channel" : "user/GameofThrones",
+          "icon" : "resources/data/GameOfThrone.png",
+          "genre" : "Episodes"
+        },
+        {
+          "title" : "The Last Harpy",
+          "channel" : "channel/UCtBHNjsLzlU3QC6X5zA7R8A",
+          "icon" : "resources/data/TheLastHarpy.jpg",
+          "genre" : "Episodes"
+        },
+        {
+          "title" : "Four Seasons Hotels and Resorts",
+          "channel" : "user/fourseasons",
+          "icon" : "resources/data/four-seasons-logo.jpg",
+          "genre" : "Episodes"
+        }
+    ],
+    "Movies": [{
+          "title" : "Bollywood",
+          "channel" : "channel/UCy-AB5ehLFqh1FtCVIH4Q3A",
+          "icon" : "resources/data/Bollywood.png",
+          "genre" : "Bollywood Movies"
+        },
+        {
+          "title" : "New Bollywood",
+          "channel" : "channel/UCjAw2rm3nmbdX46effqJqJg",
+          "icon" : "resources/data/new_bollywood.jpg",
+          "genre" : "Latest"
+        },
+        {
+          "title" : "Hollywood",
+          "channel" : "channel/UC0HTiLYOGGaNDIWHWcKxMSw",
+          "icon" : "resources/data/hollywood.jpg",
+          "genre" : "Hollywood Movies"
+        },
+        {
+          "title" : "New Hollywood",
+          "channel" : "channel/UC3776_WcDXnYDyS2fbX8t3g",
+          "icon" : "resources/data/latest_hollywood.jpg",
+          "genre" : "Latest"
+        }
+    ]
+
+}
